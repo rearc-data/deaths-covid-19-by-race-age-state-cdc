@@ -1,0 +1,1 @@
+This release contains counts for deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to National Center for Health Statistics (NCHS) by race, age, and state.
