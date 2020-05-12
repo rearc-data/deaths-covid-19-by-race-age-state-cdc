@@ -4,7 +4,7 @@
 
 # COVID-19 Deaths | Race and Hispanic Origin Group and Age, by State | CDC
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-tjm6gb2u2vn26](https://aws.amazon.com/marketplace/pp/prodview-tjm6gb2u2vn26). 
 
 ## Main Overview:
 This release contains counts for deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to National Center for Health Statistics (NCHS) by race, age, and state.
