@@ -6,7 +6,7 @@
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-tjm6gb2u2vn26](https://aws.amazon.com/marketplace/pp/prodview-tjm6gb2u2vn26). 
 
-## Main Overview:
+## Main Overview
 This release contains counts for deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to National Center for Health Statistics (NCHS) by race, age, and state.
 
 Centers for Disease Control and Prevention provides free and open access to various health related data. If you are intersted in learning more about datasets released by the CDC, please visit the [page on the CDC Data Homepage](https://data.cdc.gov).

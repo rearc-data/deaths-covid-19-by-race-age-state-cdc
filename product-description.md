@@ -2,7 +2,7 @@
 
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [https://github.com/rearc-data/deaths-covid-19-by-race-age-state-cdc](https://github.com/rearc-data/deaths-covid-19-by-race-age-state-cdc).
 
-## Main Overview:
+## Main Overview
 This release contains counts for deaths involving coronavirus disease 2019 (COVID-19), pneumonia, and influenza reported to National Center for Health Statistics (NCHS) by race, age, and state.
 
 Centers for Disease Control and Prevention provides free and open access to various health related data. If you are intersted in learning more about datasets released by the CDC, please visit the [page on the CDC Data Homepage](https://data.cdc.gov).
